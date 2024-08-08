@@ -14,3 +14,8 @@ This project is based on [Cookiecutter Widgets](https://github.com/jupyter-widge
 
 ### Adapted Version
 ![Adapted CriPAV](images/cripav_jupyter.png)
+
+### Project Demonstration Videos
+ - [Watch on Google Drive](https://drive.google.com/file/d/1TcZFP87l-OA3MovFuPiR2rOsy23tNCKx/view?usp=sharing)
+ - [Watch on Google Drive](https://drive.google.com/file/d/10tpVIuyv5a9JF82wh-yYYxX4m2t4xYiN/view?usp=sharing)
+ - [Watch on Google Drive](https://drive.google.com/file/d/17qIE140RlUe4LtGlUT078fDvBaZmeOY-/view?usp=sharing)
