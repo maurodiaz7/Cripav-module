@@ -1,10 +1,13 @@
 ## Adaptation of "CriPAV: Street-Level Crime Patterns Analysis and Visualization" to a Jupyter environment
 
-This project is based on [Cookiecutter Widgets](https://github.com/jupyter-widgets/widget-cookiecutter). It requires Python, Cookiecutter, and npm to install.
+This project is based on [Cookiecutter Widgets](https://github.com/jupyter-widgets/widget-cookiecutter). It requires Python, Cookiecutter, and npm to install. This will install CriPAV as a Python module.
 
 ### Installation Steps
-1. **Step 1**: Description of the first step.
-2. **Step 2**: Description of the second step.
+1. **Step 1**: Activate your desired conda environment for installation of the module.
+2. **Step 2**: Navigate to `jupyter_d3_widget/ and run `pip install -e .`
+3. **Step 3**: Run `jupyter nbextension install --py --symlink --sys-prefix jupyter_d3_widget`
+4. **Step 4**: Run `jupyter nbextension enable --py --sys-prefix jupyter_d3_widget`
+5. **Step 5**: Create a notebook with your selected environment and import the module as shown in the image below.
 
 ### Original CriPAV
 ![Original CriPAV](images/cripav.png)
