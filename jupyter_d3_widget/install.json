@@ -1,0 +1,5 @@
+{
+  "packageManager": "python",
+  "packageName": "jupyter_d3_widget",
+  "uninstallInstructions": "Use your Python package manager (pip, conda, etc.) to uninstall the package jupyter_d3_widget"
+}
