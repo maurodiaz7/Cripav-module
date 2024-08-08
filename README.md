@@ -19,3 +19,9 @@ This project is based on [Cookiecutter Widgets](https://github.com/jupyter-widge
  - [Watch on Google Drive](https://drive.google.com/file/d/1TcZFP87l-OA3MovFuPiR2rOsy23tNCKx/view?usp=sharing)
  - [Watch on Google Drive](https://drive.google.com/file/d/10tpVIuyv5a9JF82wh-yYYxX4m2t4xYiN/view?usp=sharing)
  - [Watch on Google Drive](https://drive.google.com/file/d/17qIE140RlUe4LtGlUT078fDvBaZmeOY-/view?usp=sharing)
+
+### Source paper
+
+G. García-Zanabria et al., "CriPAV: Street-Level Crime Patterns Analysis and Visualization," in IEEE Transactions on Visualization and Computer Graphics, vol. 28, no. 12, pp. 4000-4015, 1 Dec. 2022, doi: 10.1109/TVCG.2021.3111146.
+
+
